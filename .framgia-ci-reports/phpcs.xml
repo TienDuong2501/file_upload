@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="3.2.2">
+<file name="E:\project_laravel\Unit_test\app\User.php">
+ <error line="18" column="17" severity="error" message="Each value in a multi-line array must be on a new line" source="Framgia.Arrays.ArrayDeclaration.ValueNoNewline"/>
+ <error line="18" column="26" severity="error" message="Each value in a multi-line array must be on a new line" source="Framgia.Arrays.ArrayDeclaration.ValueNoNewline"/>
+ <error line="27" column="21" severity="error" message="Each value in a multi-line array must be on a new line" source="Framgia.Arrays.ArrayDeclaration.ValueNoNewline"/>
+</file>
+</checkstyle>
+
